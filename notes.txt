@@ -1,0 +1,17 @@
+
+IOS VERSION
+
+iOS file association:
+http://www.dickssportinggoods.com/family/index.jsp?categoryId=11249612
+
+iOS unzip:
+https://github.com/MobileChromeApps/cordova-plugin-zip
+
+iOS unrar:
+https://www.npmjs.com/package/node-unrar
+https://github.com/wcchoi/libunrar-js
+
+
+
+
+

@@ -1,0 +1,17 @@
+{
+	"name": "Smarter Comic Book Viewer",
+	"description": "Smarter Comic Book Viewer",
+	"version": "osx64-1.0.0",
+	"keywords": [],
+	"main": "app://host/dist/index.html",
+	"window": {
+		"title": "Smarter Comic Book Viewer",
+		"toolbar": false,
+		"frame": true,
+		"resizable": true,
+		"show": false,
+		"width": 700,
+		"height": 750,
+		"focus": true
+	}
+}
